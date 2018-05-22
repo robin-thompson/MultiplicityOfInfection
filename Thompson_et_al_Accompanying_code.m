@@ -11,7 +11,7 @@ close all
 %% any results generated from it.
 
 %% The intention of this code is not to replicate every figure in the original publication,
-%% but is instead to allow readers to experiment with the behaviour of model under different parameter
+%% but is instead to allow readers to experiment with the behaviour of the model under different parameter
 %% values. However, by changing the parameter values to match those at each point in the paper, a
 %% number of the results in the publication above can be straightforwardly reproduced.
 
